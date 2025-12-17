@@ -15,10 +15,14 @@ body {
   background-color: #003366; /* blue header */
   color: white;
   padding: 32px 24px;
-  margin-bottom: 32px;
+  margin: 0;              /* remove margins */
+  text-align: center;
+  width: 100vw;           /* full viewport width */
+  position: relative;
+  left: 50%;
+  right: 50%;
   margin-left: -50vw;
   margin-right: -50vw;
-  text-align: center;
 }
 
 .header h1 {
