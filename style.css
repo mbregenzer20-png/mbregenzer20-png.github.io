@@ -16,6 +16,8 @@ body {
   color: white;
   padding: 32px 24px;
   margin-bottom: 32px;
+  margin-left: -50vw;
+  margin-right: -50vw;
   text-align: center;
 }
 
